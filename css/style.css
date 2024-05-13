@@ -16,8 +16,10 @@ světle šedá: #f0f0f0
 h1{
     color:  #c5308a;
 }
+
 h3{
     color:  #c5308a; 
+    font-style: italic;
 }
 .news{
     background-color: #c5308a;
