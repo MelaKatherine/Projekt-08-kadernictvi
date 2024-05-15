@@ -21,9 +21,11 @@ h3{
     color:  #c5308a; 
     font-style: italic;
 }
-.kontakt a{
+a{
     text-decoration: none;
-    color:  #c5308a;
+}
+.kontakt a, .footer a{
+   color:  #c5308a;
 }
 .news{
     background-color: #c5308a;
